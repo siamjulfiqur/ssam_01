@@ -1,0 +1,207 @@
+ /* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) {
+/* header start */
+.menu ul li a {
+    padding: 8px 40px 0 5px !important;
+    color: #777777;
+}
+header {
+    padding: 15px 0 20px 0;
+}
+/* banner start */
+.btext {
+    text-align: center;
+    padding: 30px 0px 50px 0px
+}
+.bh2 {
+    font-size: 22px;
+    font-weight: 400;
+    padding: 15px 0 15px 
+}
+.bp2 {
+    padding: 0 0 25px 0;
+}
+/* style start */
+.sh2 {
+    font-size: 22px;
+    font-weight: 400;
+    padding: 10px 0 10px 0;
+}
+.paex {
+    padding: 0 0 0 0;
+}
+.pad {
+    padding: 0 0;
+}
+.stext {
+    text-align: center;
+    padding: 10px 0 50px 0;
+}
+/* style2 start */
+.style2 {
+    padding: 70px 0 0 0;
+}
+/* load start */
+.load {
+    padding: 60px 0 100px 0;
+}
+
+/* foter start  */
+section {
+    padding: 35px 0;
+}
+}
+
+ /* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) {
+/* header start */
+.menu ul li a {
+    padding: 10px 40px 0 0 !important;
+    color: #777777;
+}
+header {
+    padding: 15px 0 20px 0;
+}
+/* banner start */
+.btext {
+    text-align: center;
+    padding: 40px 10px 50px 10px;
+}
+.bh2 {
+    font-size: 28px;
+    font-weight: 400;
+    padding: 20px 0 20px 0;
+}
+.bp2 {
+    padding: 0 0 25px 0;
+}
+/* style start */
+.sh2 {
+    font-size: 22px;
+    font-weight: 400;
+    padding: 10px 0 10px 0;
+}
+.paex {
+    padding: 0 0 0 0;
+}
+.pad {
+    padding: 0 55px;
+}
+.stext {
+    padding: 15px 0 70px 0;
+}
+/* style2 start */
+.style2 {
+    padding: 70px 0 0 0;
+}
+/* footer */
+.footer h5 {
+    padding-left: 0;
+    border-left: transparent;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+}
+/* load start */
+.lh2 {
+    font-size: 22px;
+}
+.load {
+    padding: 60px 0 120px 0;
+}
+.more {
+    padding: 0 120px 0 120px;
+    border: 1px solid #fcfbfb;
+}
+    
+}
+
+
+ /* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) {
+/* header start */
+.menu ul li a {
+    padding: 10px 40px 0 0 !important;
+    color: #777777;
+}
+header {
+    padding: 20px 0 30px 0;
+}
+/* banner start */
+.btext {
+    padding: 50px 40px 50px 50px
+}
+.bh2 {
+    font-size: 35px;
+    font-weight: 500;
+    padding: 25px 0 25px 0;
+}
+.bp2 {
+    padding: 0 0 30px 0;
+}
+/* style start */
+.sh2 {
+    font-size: 27px;
+    font-weight: 400;
+    padding: 15px 0 15px 0;
+}
+.paex {
+    padding: 0 0 0 0;
+}
+.pad {
+    padding: 0 55px;
+}
+.stext {
+    padding: 15px 0 70px 0;
+}
+/* style2 start */
+.style2 {
+    padding: 90px 0 0 0;
+}
+/* load  */
+.lh2 {
+    font-size: 22px;
+}
+.load {
+    padding: 90px 0 130px 0;
+}
+}
+
+ /* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+/* banner start */
+.btext {
+    padding: 70px 60px 60px 70px;
+}
+.bh2 {
+    font-size: 35px;
+    font-weight: 500;
+    padding: 25px 0 25px 0;
+}
+
+/* style start */
+.sh2 {
+    font-size: 27px;
+    font-weight: 400;
+    padding: 15px 0 15px 0;
+}
+.paex {
+    padding: 0 15px 0 15px;
+}
+
+/* load  */
+.lh2 {
+    font-size: 22px;
+}
+
+}
+
+ /* Extra large devices (large desktops, 1200px and up) */
+ @media (min-width: 1200px) and (max-width: 1399.98px) {
+
+ }
+
+ /* Extra Extra large devices (large desktops, 1400px and up) */
+@media (min-width: 1400px) {
+
+}
+
